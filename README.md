@@ -49,7 +49,7 @@ the character vocabulary. The causal mask prevents each position from
 attending to future characters, which preserves the next-character
 prediction setup used during training and generation.
 
-![Architecture FlowChart](architecture.png)
+<img width="3020" height="1448" alt="architecture" src="https://github.com/user-attachments/assets/f5129bdb-e014-4dd6-bdf7-939d5296803d" />
 
 *Architecture flowchart : add the exported diagram at
 `architecture.png`.*
